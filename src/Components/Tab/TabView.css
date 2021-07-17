@@ -140,7 +140,7 @@ border-radius: 8px;
 .BoxLine{
   position: absolute;
 width: 620px;
-height: 2px;
+height: 1px;
 left:1px;
 top: 39px;
 right:1px;
