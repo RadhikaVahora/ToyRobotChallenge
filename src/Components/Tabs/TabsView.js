@@ -19,7 +19,7 @@ class TabsView extends React.PureComponent {
     render(){
         return(
             <div>
-                <h1>Tab Component</h1>
+                <h1 className='Title'>Tab Component</h1>
                 <div className="Rectangle1">
                 <ul className='TabLayout'>
                     {Config.TABNAME.map((element,index) =>(
