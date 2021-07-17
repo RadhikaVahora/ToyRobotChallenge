@@ -2,7 +2,9 @@
 
 exports[`TabsView should render all tabs correctly 1`] = `
 <div>
-  <h1>
+  <h1
+    className="Title"
+  >
     Tab Component
   </h1>
   <div
