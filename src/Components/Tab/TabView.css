@@ -8,13 +8,33 @@ letter-spacing: 0.535714px;
 color: #000000;
 width: 124px;
 height: 4px;
-padding: 2px;
-justify-content: space-around;
-left: 2px;
-top: 9px;
-right: 519px;
-bottom: 216px;
+position: absolute;
+width: 124px;
+height: 4px;
+left:1px;
+top: 20px;
+right:495px;
+bottom: 208px;
+text-align: center;
 }
+.Tab2Header {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: 0.535714px;
+  color: #000000;
+  width: 124px;
+  height: 4px;
+  position: absolute;
+  width: 124px;
+  height: 4px;
+  left: 130px;
+  top: 20px;
+  right:406px;
+  bottom: 208px;
+  text-align: center;
+  }
 
 .ActiveTab{
   text-decoration-line: underline;
@@ -110,7 +130,6 @@ bottom: 16px;
 height: 36px;
 width: 113px;
 color: white;
-
 background: #006DFF;
 border: 2px solid #006DFF;
 box-sizing: border-box;
@@ -138,7 +157,6 @@ left:1px;
 top: 37px;
 right:495px;
 bottom: 208px;
-
 background: #8E00FF;
 }
 
@@ -150,6 +168,5 @@ left:125px;
 top: 37px;
 right:382px;
 bottom: 208px;
-
 background: #8E00FF;
 }

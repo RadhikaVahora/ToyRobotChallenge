@@ -9,12 +9,12 @@ const TabView = (props) => {
         const{onTabClick,label} = props;
         onTabClick(label);
     }
-    
+
     const{label,activeTab} = props;
 
     return(
         <div>
-        <div className='Tab1Header'>
+        <div className={label==='Tincidunt'?'Tab1Header': label==='Sodales'&& 'Tab2Header' }>
             <li onClick={onClickTabItem}>{label}</li>
         </div>
         <div className='BoxLine'/>
