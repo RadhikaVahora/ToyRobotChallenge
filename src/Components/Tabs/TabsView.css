@@ -1,0 +1,25 @@
+
+
+.Rectangle1 {
+  position: absolute;
+  width: 620px;
+  height: 249px;
+  left: 201px;
+  top: 62px;
+  
+  background: #FFFFFF;
+  border: 1px solid #E7E7E8;
+  box-sizing: border-box;
+
+}
+
+
+.TabLayout{
+  display: flex;
+  list-style-type: none;
+  justify-content: flex-start;
+  width: 300px;
+  height: 20px;
+
+}
+

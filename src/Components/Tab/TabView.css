@@ -1,0 +1,155 @@
+
+.Tab1Header {
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+letter-spacing: 0.535714px;
+color: #000000;
+width: 124px;
+height: 4px;
+padding: 2px;
+justify-content: space-around;
+left: 2px;
+top: 9px;
+right: 519px;
+bottom: 216px;
+}
+
+.ActiveTab{
+  text-decoration-line: underline;
+  text-decoration-color: #8E00FF;
+  text-decoration-style: solid;
+  width: 124px;
+  height: 4px;
+}
+
+.TextContent2{
+  position: absolute;
+width: 572px;
+height: 80px;
+left: 25px;
+top: 153px;
+right: 23px;
+bottom: 16px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+/* or 133% */
+letter-spacing: 0.535714px;
+color: #000000;
+}
+
+.TextContent1{
+  position: absolute;
+width: 572px;
+height: 80px;
+left: 25px;
+top: 97px;
+right: 57px;
+bottom: 112px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 20px;
+/* or 133% */
+letter-spacing: 0.535714px;
+color: #000000;
+}
+.HeaderTitle{
+  position: absolute;
+width: 134px;
+height: 32px;
+left: 25px;
+top: 57px;
+right:461px;
+bottom:160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+text-align: center;
+letter-spacing: 0.857143px;
+color: #000000;
+}
+
+.HeaderTitle2{
+  position: absolute;
+width: 261px;
+height: 32px;
+left: 25px;
+top: 57px;
+right:461px;
+bottom:160px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+text-align: center;
+letter-spacing: 0.857143px;
+color: #000000;
+}
+
+.ButtonStyle{
+  position: absolute;
+left: 486px;
+right: 21px;
+top: 188px;
+bottom: 16px;
+height: 36px;
+width: 113px;
+color: white;
+
+background: #006DFF;
+border: 2px solid #006DFF;
+box-sizing: border-box;
+border-radius: 8px;
+
+}
+
+.BoxLine{
+  position: absolute;
+width: 620px;
+height: 2px;
+left:1px;
+top: 39px;
+right:1px;
+bottom: 208px;
+border: 1px #E7E7E8;
+border-style: solid;
+}
+
+.Tab1UnderLine{
+  position: absolute;
+width: 124px;
+height: 4px;
+left:1px;
+top: 37px;
+right:495px;
+bottom: 208px;
+
+background: #8E00FF;
+}
+
+.Tab2UnderLine{
+  position: absolute;
+width: 124px;
+height: 4px;
+left:125px;
+top: 37px;
+right:382px;
+bottom: 208px;
+
+background: #8E00FF;
+}
