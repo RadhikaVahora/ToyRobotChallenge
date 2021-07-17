@@ -42,7 +42,7 @@ exports[`TabView should render correctly for tab Tincidunt 1`] = `
 exports[`TabView should render correctly for tab Tincidunt 2`] = `
 <div>
   <div
-    className="Tab1Header"
+    className="Tab2Header"
   >
     <li
       onClick={[Function]}
