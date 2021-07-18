@@ -1,8 +1,7 @@
-const TABNAME=[
+const TABNAME = [
     {name:"Tincidunt"},
     {name:"Sodales"},
 ]
-
 
 export const Config = {
     TABNAME,

@@ -11,9 +11,7 @@ class TabsView extends React.PureComponent {
     onClickTabItem = (tab) =>{
         this.setState({
             activeTab:tab
-        },(()=>{
-            console.log(this.state.activeTab);
-        }));
+        });
     }
 
     render(){
